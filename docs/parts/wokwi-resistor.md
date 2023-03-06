@@ -30,7 +30,7 @@ pull-up/pull-down resistors.
 
 | Result                              | Attrs                     |
 | ----------------------------------- | ------------------------- |
-| <wokwi-resistor value="1" />        | `{ "value": "1" }`        |
+| <wokwi-resistor value="10" />        | `{ "value": "10" }`        |
 | <wokwi-resistor value="220" />      | `{ "value": "220" }`      |
 | <wokwi-resistor value="10000000" /> | `{ "value": "10000000" }` |
 
